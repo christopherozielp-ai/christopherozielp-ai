@@ -58,7 +58,7 @@ App para gestionar miembros de una familia con CRUD completo, autenticación Goo
 **Backend:** Spring Boot · Java 21 · PHP  
 **Datos:** MySQL  
 **Herramientas:** Git · VS Code · IntelliJ IDEA · Netlify · Render · Railway  
-**Metodologías:** Scrum / Agile  
+**Metodologías:** Scrum 
 
 ---
 

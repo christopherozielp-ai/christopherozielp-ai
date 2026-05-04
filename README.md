@@ -3,7 +3,7 @@
 **Estudiante de Licenciatura en Desarrollo de Softwarae Multiplataforma**
 Buscando prácticas profesionales en Monterrey, N.L.
 
-![Open to Work](https://img.shields.io/badge/Abierto%20a%20pr%C3%A1cticas-2025-1f6feb?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Abierto%20a%20pr%C3%A1cticas-2026-1f6feb?style=flat-square)
 ![Location](https://img.shields.io/badge/Apodaca-Nuevo%20Le%C3%B3n-21262d?style=flat-square)
 
 ---

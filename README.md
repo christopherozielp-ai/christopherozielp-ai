@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hola, soy Christopher Oziel 👨‍💻
 
-<!--
-**christopherozielp-ai/christopherozielp-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Licenciatura en Desarrollo de Softwarae Multiplataforma**
+Buscando prácticas profesionales en Monterrey, N.L.
 
-Here are some ideas to get you started:
+![Open to Work](https://img.shields.io/badge/Abierto%20a%20pr%C3%A1cticas-2025-1f6feb?style=flat-square)
+![Location](https://img.shields.io/badge/Apodaca-Nuevo%20Le%C3%B3n-21262d?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋 Sobre mí
+
+Soy estudiante de la Universidad Tecnológica General Mariano Escobedo, apasionado por construir soluciones reales con código. Me enfoco en desarrollo full-stack, bases de datos y automatización de procesos. Aprendo rápido, me organizo bien y disfruto trabajar en equipo para resolver problemas concretos.
+
+- 🎓 Lic. en Ing. en Tecnologías de la Información e Innovación Digital (2024 – actual)
+- 📍 Apodaca, Nuevo León
+- 🔍 Buscando prácticas en TI, datos o desarrollo web
+- ✉️ christopherozielp@gmail.com
+
+---
+
+## 🚀 Proyectos destacados
+
+### API Familia — App Web Full-Stack
+App para gestionar miembros de una familia con CRUD completo, autenticación Google OAuth2 y despliegue 100% en la nube.
+
+![Angular](https://img.shields.io/badge/Angular_19-DD1B16?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-E76F00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+- API REST con operaciones CRUD y arquitectura por capas (Controller / Service / Repository / Model / DTO)
+- Autenticación con Google OAuth2 y configuración CORS
+- Frontend en Netlify · Backend en Render · BD en Railway
+
+### Sistema de Venta — Salud Social
+
+![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+- Sistematización de base de datos y control de inventarios
+- Automatización de registro de ventas
+
+### Control de Inventarios — La Michoacana
+
+![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+- BD relacional con consultas complejas para control de existencias y proveedores
+- Reportes automáticos de ventas diarias y semanales
+
+---
+
+## 🛠️ Stack tecnológico
+
+**Frontend:** Angular 19 · TypeScript · HTML5 · CSS3  
+**Backend:** Spring Boot · Java 21 · PHP  
+**Datos:** MySQL  
+**Herramientas:** Git · VS Code · IntelliJ IDEA · Netlify · Render · Railway  
+**Metodologías:** Scrum / Agile  
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherozielp-ai&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherozielp-ai&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📬 Contacto
+
+- ✉️ christopherozielp@gmail.com
+- 📞 812-695-5264
+- 📍 Apodaca, Nuevo León
+
+---
+*Gracias por visitar mi perfil · ¡Siempre aprendiendo algo nuevo!*

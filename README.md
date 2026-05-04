@@ -62,13 +62,6 @@ App para gestionar miembros de una familia con CRUD completo, autenticación Goo
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherozielp-ai&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherozielp-ai&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📬 Contacto
 
 - ✉️ christopherozielp@gmail.com

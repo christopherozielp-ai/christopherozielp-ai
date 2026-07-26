@@ -35,18 +35,6 @@ App para gestionar miembros de una familia con CRUD completo, autenticación Goo
 - API REST con operaciones CRUD y arquitectura por capas (Controller / Service / Repository / Model / DTO)
 - Autenticación con Google OAuth2 y configuración CORS
 - Frontend en Netlify · Backend en Render · BD en Railway
-
-### Sistema de Venta — Salud Social
-![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-- Sistematización de base de datos y control de inventarios
-- Automatización de registro de ventas
-
-### Control de Inventarios — La Michoacana
-![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-- BD relacional con consultas complejas para control de existencias y proveedores
-- Reportes automáticos de ventas diarias y semanales
 ---
 ## 🛠️ Stack tecnológico
 **Frontend:** Angular 19 · TypeScript · HTML5 · CSS3  

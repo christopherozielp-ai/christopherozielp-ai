@@ -24,17 +24,6 @@ Sistema full-stack para administrar procesos de certificación bajo normativas c
 - Roles diferenciados: ADMIN, AUDITOR y CLIENTE, cada uno con permisos y vistas propias
 - Backend en Spring Boot con Spring Security
 - Frontend en Angular 19 con componentes standalone y Tailwind CSS
-
-### API Familia — App Web Full-Stack
-App para gestionar miembros de una familia con CRUD completo, autenticación Google OAuth2 y despliegue 100% en la nube.
-![Angular](https://img.shields.io/badge/Angular_19-DD1B16?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-E76F00?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- API REST con operaciones CRUD y arquitectura por capas (Controller / Service / Repository / Model / DTO)
-- Autenticación con Google OAuth2 y configuración CORS
-- Frontend en Netlify · Backend en Render · BD en Railway
 ---
 ## 🛠️ Stack tecnológico
 **Frontend:** Angular 19 · TypeScript · HTML5 · CSS3  

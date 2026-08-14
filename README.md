@@ -27,9 +27,13 @@ Sistema full-stack para administrar procesos de certificación bajo normativas c
 ## 🛠️ Stack tecnológico
 
 **Frontend:** Angular 19 · TypeScript · HTML5 · CSS3 · Tailwind CSS
+
 **Backend:** Spring Boot · Java 21
+
 **Base de datos:** MySQL
+
 **Herramientas:** Git · GitHub · VS Code · IntelliJ IDEA
+
 **Metodologías:** Scrum
 
 ## 📬 Contacto
